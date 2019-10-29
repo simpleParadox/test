@@ -8,6 +8,6 @@ public class MainActivityTest {
 
     @Test
     public void sample() {
-        assertEquals(2,MainActivity.sample());
+        assertEquals(1,MainActivity.sample());
     }
 }
